@@ -18,5 +18,5 @@
     –privileged=true：提升容器内权限
     -v=/mysqltest/config/my.cnf:/etc/my.cnf：映射配置文件
     -v=/mysqltest/data:/var/lib/mysql：映射数据目录
-    
-    
+
+
